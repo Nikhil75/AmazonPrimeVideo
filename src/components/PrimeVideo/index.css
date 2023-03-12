@@ -1,0 +1,9 @@
+.prime-video-container {
+  height: 140vh;
+  background-color: black;
+  background-size: cover;
+}
+.header-text {
+  color: white;
+  font-family: 'Roboto';
+}
